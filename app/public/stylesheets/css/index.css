@@ -1,0 +1,11 @@
+/* line 1, ../sass/index.scss */
+body {
+  background-image: url(/images/global_nav/nav.png), url(/images/bg_dust.png);
+  background-repeat: repeat-x, repeat;
+}
+
+/* line 5, ../sass/index.scss */
+#container {
+  width: 1024px;
+  margin: 0 auto;
+}

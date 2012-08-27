@@ -3,7 +3,7 @@
 # Set this to the root of your project when deployed:
 http_path = "/"
 css_dir = "app/public/stylesheets/css"
-sass_dir = "app/public/stylesheets/sass"
+scss_dir = "app/public/stylesheets/scss"
 images_dir = "app/public/images"
 javascripts_dir = "app/public/javascripts"
 
@@ -16,4 +16,4 @@ javascripts_dir = "app/public/javascripts"
 # To disable debugging comments that display the original location of your selectors. Uncomment:
 # line_comments = false
 
-preferred_syntax = :sass
+preferred_syntax = :scss
